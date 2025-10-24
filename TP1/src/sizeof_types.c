@@ -1,11 +1,5 @@
-#include <stdio.h> // Inclusion de la bibliothèque pour les fonctions d'entrée/sortie comme printf()
+#include <stdio.h> 
 
-/*
- * Programme : sizeof_types.c
- * Auteur : (Votre nom)
- * Date : 24 octobre 2025
- * Description : Affiche la taille en octets des types de données de base en C.
- */
 int main() {
 
     // --- Types caractères ---
@@ -56,3 +50,4 @@ int main() {
     // que le programme s'est terminé sans erreur.
     return 0;
 }
+
